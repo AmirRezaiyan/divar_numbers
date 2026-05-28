@@ -370,7 +370,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by the Divar Scraper Team**
+**Made with ❤️ by the AmirRezaiyan**
 
 [⬆ Back to Top](#-divar-scraper)
 
